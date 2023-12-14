@@ -1,0 +1,6 @@
+[DATABASE]
+hostname=localhost
+database= HospitalManagementSystem
+username =root
+password =Nagpur@123
+port =3306
